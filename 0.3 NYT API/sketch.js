@@ -1,6 +1,5 @@
 
 var link = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?q=';
-//var q='unicorn';
 var apikey='&api-key=VukplcQ9xGbFpSmcmIvULv45uGQ2NibG';
 var input;
 
